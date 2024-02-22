@@ -1,6 +1,3 @@
-# yt-js-objects
-JavaScript Objects on YouTube - https://www.youtube.com/watch?v=m9FrY5A-tao
-
 ---
 title: "YouTube's JavaScript Objects"
 author: "bbauska"
@@ -10,6 +7,8 @@ output:
     with some style
 ---
 
+## yt-js-objects
+<a href="https://www.youtube.com/watch?v=m9FrY5A-tao">JavaScript Objects on YouTube</a>
 
 This Edureka video on "JavaScript Object" will help you understand the different methods of creating objects in JavaScript. It will provide examples for each type and show you how to use objects in JavaScript. ( JavaScript Object Blog: https://www.edureka.co/blog/javascrip... )
 
